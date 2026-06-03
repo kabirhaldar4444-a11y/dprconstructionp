@@ -1,0 +1,19 @@
+<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#BE9243" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter" fill="none">
+    <!-- Top Cube -->
+    <path d="M 300 40 L 360 75 L 300 110 L 240 75 Z" />
+    <path d="M 240 75 L 240 145 L 300 180 L 300 110" />
+    <path d="M 360 75 L 360 145 L 300 180 L 300 110" />
+    
+    <!-- Left extension base -->
+    <path d="M 210 140 L 150 175 L 150 245 L 210 280 L 210 210 Z" />
+    <!-- Center connecting space -->
+    <path d="M 210 280 L 300 330 L 390 280" />
+    <path d="M 240 230 L 300 265 L 360 230" />
+    <!-- Right extension base -->
+    <path d="M 390 140 L 450 175 L 450 245 L 390 280 L 390 210 Z" />
+  </g>
+
+  <text x="300" y="400" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="140" fill="#132B4F" text-anchor="middle" letter-spacing="-2">DPR</text>
+  <text x="300" y="435" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="32" fill="#132B4F" text-anchor="middle" letter-spacing="4">CONSTRUCTION</text>
+</svg>

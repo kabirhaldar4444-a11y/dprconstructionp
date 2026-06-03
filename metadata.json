@@ -1,0 +1,7 @@
+{
+  "name": "DPR Construction | Global Infrastructure & Engineering",
+  "description": "DPR Construction is a Redwood City, California-based multinational engineering company delivering roads, metro, railway, power, mining, manufacturing, and high-rise infrastructure projects worldwide since 2005.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
